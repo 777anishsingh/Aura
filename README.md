@@ -18,6 +18,7 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🧑‍🏫 [Conclusion](#Conclusion)
+7. 📱 [Screenshots](#Screenshots)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -251,3 +252,6 @@ const videos = [
 ## 🧑‍🏫 Conclusion
 
 Aura is designed with a focus on user experience, performance, and code reusability, offering a seamless, engaging, and responsive interface that adapts to users' needs. From robust authentication to dynamic media handling, Aura provides a comprehensive solution for modern app development
+
+## 📱 Screenshots
+**comming soon.....**
